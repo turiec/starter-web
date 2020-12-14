@@ -4,6 +4,7 @@
 # TEAM
 
     Jason Taylor jason@git.training   @awesomejt
+    Milan Ludma    milan.ludma@gmail.com   @turiec
 
 # THANKS
 
