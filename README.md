@@ -10,6 +10,8 @@ This example is to show different parts of the Git repository and various comman
 
 As stated above, teh main purpose is to provide simple examples for Git training demos.
 
+## Updates from Dev 1
+
 ## Deployment
 
 This is a simple web project, deployment can be on any web server or even local file system.
