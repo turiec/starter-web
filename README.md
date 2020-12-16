@@ -21,4 +21,4 @@ How To Contribute 2
 
 ## Copyright
 
-2014 Git.Training
+2014 Git.Training. All rights reserved.
